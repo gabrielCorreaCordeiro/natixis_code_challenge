@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Documentos\projetos\code_challenge_natixis\storeAPI\src\main\java\com\code_challenger_natixis\storeAPI\api\config\SecurityConfig.java
+C:\Users\gabri\OneDrive\Documentos\projetos\code_challenge_natixis\storeAPI\src\main\java\com\code_challenger_natixis\storeAPI\api\controllers\auth\AuthController.java
+C:\Users\gabri\OneDrive\Documentos\projetos\code_challenge_natixis\storeAPI\src\main\java\com\code_challenger_natixis\storeAPI\api\payloads\request\AuthRequest.java
+C:\Users\gabri\OneDrive\Documentos\projetos\code_challenge_natixis\storeAPI\src\main\java\com\code_challenger_natixis\storeAPI\api\payloads\response\AuthResponse.java
+C:\Users\gabri\OneDrive\Documentos\projetos\code_challenge_natixis\storeAPI\src\main\java\com\code_challenger_natixis\storeAPI\api\utils\JwtAuthFilter.java
+C:\Users\gabri\OneDrive\Documentos\projetos\code_challenge_natixis\storeAPI\src\main\java\com\code_challenger_natixis\storeAPI\api\utils\JwtUtil.java
+C:\Users\gabri\OneDrive\Documentos\projetos\code_challenge_natixis\storeAPI\src\main\java\com\code_challenger_natixis\storeAPI\domain\entities\User.java
+C:\Users\gabri\OneDrive\Documentos\projetos\code_challenge_natixis\storeAPI\src\main\java\com\code_challenger_natixis\storeAPI\StoreApiApplication.java

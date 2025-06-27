@@ -1,0 +1,10 @@
+com\code_challenger_natixis\storeAPI\api\payloads\response\AuthResponse.class
+com\code_challenger_natixis\storeAPI\api\utils\JwtAuthFilter.class
+com\code_challenger_natixis\storeAPI\api\controllers\auth\AuthController.class
+com\code_challenger_natixis\storeAPI\api\payloads\request\AuthRequest.class
+com\code_challenger_natixis\storeAPI\api\utils\JwtUtil.class
+com\code_challenger_natixis\storeAPI\domain\entities\User$UserBuilder.class
+com\code_challenger_natixis\storeAPI\domain\entities\User.class
+com\code_challenger_natixis\storeAPI\api\config\SecurityConfig.class
+com\code_challenger_natixis\storeAPI\api\payloads\response\AuthResponse$AuthResponseBuilder.class
+com\code_challenger_natixis\storeAPI\StoreApiApplication.class
